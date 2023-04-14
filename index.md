@@ -5,3 +5,6 @@
 ```
 console.log("Darbease is the Name")
 ```
+- [ ] Coding plan in parallel with Market Development
+- [ ] Marathon
+- [ ] Introduce myself to the world
